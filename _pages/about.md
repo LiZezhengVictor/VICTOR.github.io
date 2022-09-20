@@ -29,7 +29,7 @@ redirect_from:
 
 
 ## 🛠 Tech Stack
-[![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus)](https://henryzhuhr.github.io/Hello-Cpp)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
 ![OpenCV](https://img.shields.io/badge/-opencv-000000?style=flat&logo=opencv)
