@@ -11,12 +11,10 @@ redirect_from:
 ## 😃 About Me
 
 - Now I'm a master student at [Nanjing University](https://www.nju.edu.cn/),  [School of Electronic Science and Engineering](https://ese.nju.edu.cn/main.htm). Before that I got my bachelor degree from [Wuhan University](https://www.whu.edu.cn/), [Electronic Information School](http://eis.whu.edu.cn/index.shtml).
-- My current research field is the intersection of **optical computing** and **artificial intelligence**, mainly studying the application of **diffractive neural network** in computer vision.
-
-
+- My current research field is the intersection of **optical computing** and **artificial intelligence**, mainly studying the application of **diffractive neural network** in computer vision. I'm also interested in photograph, welcome to visit my [500px ](https://500px.com.cn/lzz666) homepage.
 - Contact me by
-[![QQ](https://img.shields.io/badge/-QQ-000000?style=flat&logo=tencentqq)](1356829342)
-[![QQMail](https://img.shields.io/badge/-QQMail-000000?style=flat&logo=Gmail)](1356829342@qq.com)
+![QQ](https://img.shields.io/badge/-QQ-000000?style=flat&logo=tencentqq)1356829342
+![QQMail](https://img.shields.io/badge/-QQMail-000000?style=flat&logo=Gmail)1356829342@qq.com
 
 
 ## 📰 News
